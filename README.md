@@ -31,7 +31,9 @@
 
 ## 📸 App Screenshot
 
----![Native-Instagram](https://github.com/user-attachments/assets/1b464924-b85f-49c5-9c5a-d47ed08a5f99)
+
+![Native-Instagram](https://github.com/user-attachments/assets/ee7511b4-a42c-4dbc-80b2-15c731f5c8b2)
+
 
 
 ## 📝 Project Purpose
